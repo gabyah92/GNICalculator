@@ -5,8 +5,7 @@ This is a basic calculator that I created when teaching Java classes at Guru Nan
 
 Miss those days...
 
-Installation Instructions : 
-USAGE : 
+Installation Instructions :  
 - Download the latest release jar file **[here](https://github.com/gabyah92/GNICalculator/releases)**. 
 - Download and install Java **[here](https://www.java.com/en/download)**.
 - Run the jar file.
